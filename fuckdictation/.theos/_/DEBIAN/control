@@ -1,0 +1,10 @@
+Package: com.fucktheworld.fuckdictation
+Name: fuckDictation
+Architecture: iphoneos-arm
+Description: remove dictation
+Maintainer: german martinez
+Author: german martinez
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 13.5)
+Version: 0.0.3-1+debug
+Installed-Size: 136
